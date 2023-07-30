@@ -1,0 +1,5 @@
+{
+    "sqltools.connections": [],
+    "appService.defaultWebAppToDeploy": "/subscriptions/444abbdc-5de1-48d4-9c0d-514d01c225ae/resourceGroups/moodbook_group-aeb5/providers/Microsoft.Web/sites/moodbook",
+    "appService.deploySubpath": "DotnetBackend/bin/Publish"
+}
