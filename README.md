@@ -12,7 +12,7 @@ The Book Recommendations API is a RESTful web service that provides book recomme
 - OpenAI API: Integration for generating book recommendations
 - Google Books API: Integration for retrieving book details
 - Database: ""
-- Frontend: ""
+- Frontend: "Vue Js"
 
 ## Getting Started
 
