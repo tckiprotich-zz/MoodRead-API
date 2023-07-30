@@ -14,3 +14,17 @@ The Book Recommendations API is a RESTful web service that provides book recomme
 - Database: ""
 - Frontend: "Vue Js"
 
+# Table of Contents
+
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Getting Started
+
+To get started with the Book Recommendation Service, you'll need to clone the repository and install the necessary dependencies. Here's how:
+
+1. Clone the repository to your local machine:
+
