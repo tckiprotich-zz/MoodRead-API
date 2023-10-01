@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DotnetBackend.Models
+namespace COLLINS.Models
 {
     public class BookDetails
     {
