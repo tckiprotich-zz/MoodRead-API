@@ -1,12 +1,12 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using COLLINS.Models;
-using COLLINS.Services;
+using DotnetBackend.Models;
+using	DotnetBackend.Services;
 using Microsoft.AspNetCore.Mvc;
 
 
 
-namespace COLLINS.Controllers
+namespace DotnetBackend.Controllers
 {
     [ApiController]
     [Route("[controller]")]

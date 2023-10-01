@@ -1,17 +1,17 @@
 using System.Net.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
-using COLLINS.Services;
+using DotnetBackend.Services;
 using System.Collections.Generic;
 using System.IO;
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 using OpenAI_API;
 using OpenAI_API.Completions;
-using COLLINS.Models;
-using COLLINS.DTOs;
+using DotnetBackend.Models;
+using DotnetBackend.DTOs;
 
-namespace COLLINS.Services
+namespace DotnetBackend.Services
 {
     public class BookRecommendation : IBookRecommendation
     {

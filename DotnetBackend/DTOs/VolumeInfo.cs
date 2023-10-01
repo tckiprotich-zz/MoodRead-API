@@ -1,4 +1,4 @@
-namespace COLLINS.DTOs;
+namespace DotnetBackend.DTOs;
 public class GoogleBooksApiResponse
 {
     public List<GoogleBooksApiItem> Items { get; set; }

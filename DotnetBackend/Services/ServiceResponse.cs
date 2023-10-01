@@ -1,4 +1,4 @@
-namespace COLLINS.Services
+namespace DotnetBackend.Services
 {
     public class ServiceResponse<T>
 {

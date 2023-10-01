@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
 using System;
 using Microsoft.EntityFrameworkCore;
-using COLLINS.Data;
-using COLLINS.Models;
+using DotnetBackend.Data;
+using DotnetBackend.Models;
 
 
-namespace COLLINS.Data
+namespace DotnetBackend.Data
 {
     public class MoodBookDBContext : DbContext
     {
@@ -21,6 +21,6 @@ namespace COLLINS.Data
         }
 
         public DbSet<BookDetails> BookDetails { get; set; } = null!;
-
+        
     }
 }
