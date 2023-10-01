@@ -1,19 +1,3 @@
-# Book Recommendations API
-
-**Authors:** Collins Tonui, Caroline Kimatu
-
-## Description
-
-The Book Recommendations API is a RESTful web service that provides book recommendations based on user input. It utilizes the OpenAI API to generate book recommendations and the Google Books API to retrieve book details. This API allows users to get personalized book suggestions and explore book information such as title, author, description, and image.
-
-## Technologies Used
-
-- Backend: C#, ASP.NET Core
-- OpenAI API: Integration for generating book recommendations
-- Google Books API: Integration for retrieving book details
-- Frontend: "Vue Js"
-
-
 # ASP.NET Core Web API Serverless Application
 
 This project shows how to run an ASP.NET Core Web API project as an AWS Lambda exposed through Amazon API Gateway. The NuGet package [Amazon.Lambda.AspNetCoreServer](https://www.nuget.org/packages/Amazon.Lambda.AspNetCoreServer) contains a Lambda function that is used to translate requests from API Gateway into the ASP.NET Core framework and then the responses from ASP.NET Core back to API Gateway.
@@ -83,4 +67,3 @@ Deploy application
     cd "COLLINS/src/COLLINS"
     dotnet lambda deploy-serverless
 ```
-
